@@ -1,2 +1,9 @@
 .vscode
 node_modules
+.eslintrc.js
+date.js
+favicon.ico
+solvingProblem.txt
+public/images/delete_FILL0_wght400_GRAD0_opsz48.svg
+public/images/done_FILL0_wght400_GRAD0_opsz48.svg
+public/images/edit_FILL0_wght400_GRAD0_opsz48.svg
